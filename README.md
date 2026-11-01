@@ -1,1 +1,1 @@
-# MCF-Python-AI-Project
+# Image-Detection-MCF-AI-Project
