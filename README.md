@@ -4,11 +4,7 @@ This is the project repository for the 2026 Virginia AI Mark Cuban Foundation pr
 
 # testing
 
-There are two ways to test the open-source image-detection model:
-
-1. Download the `image_detection_mcf_ai_project.json` file and import it into [Google's Visual Blocks for ML](https://visualblocks.withgoogle.com/#/community) site by clicking "My Projects," "Import project," selecting the `image_detection_mcf_ai_project.json` file, and seeing the filter model in action with your own webcam.
-
-2. Directly click this link to redirect you to the image-detection filter system in real time: https://visualblocks.withgoogle.com/#/edit/iqz6eo
+Download the `image_detection_mcf_ai_project.json` file and import it into [Google's Visual Blocks for ML](https://visualblocks.withgoogle.com/#/community) site by clicking "My Projects," "Import project," selecting the `image_detection_mcf_ai_project.json` file, and seeing the filter model in action with your own webcam.
 
 # license
 
